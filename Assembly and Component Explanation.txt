@@ -1,0 +1,5 @@
+For the assembly of the controller the main binder would be magents to keep the top on but also allow easy diasembly.
+
+The components used was a joy stick, button, 2 LED's and the micro arduino. The joy stick gives the player a way
+for directional input and the buttons gives them the extra interaction required. While the lights act as a way
+to give visual feedback to the player.

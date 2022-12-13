@@ -1,0 +1,7 @@
+The button is wired into the arduino digital pin 4. When digital pin 4 recieves power it then turns on digital
+pin 3 which turns on the 2 light wired into it. This allows the light to stay on while the button is being 
+pushed which gives a visual feeback on when it's pressed. The button would act as an input for the duck to do 
+another action like attacking, hiding, etc...
+
+The 2 potentiometers simulate a joystick and you can see in the serial monitor it is pushing values of the
+potentiometers which would translate to the x and y position of the duck on screen.
